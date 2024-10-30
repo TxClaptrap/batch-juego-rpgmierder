@@ -1,0 +1,6 @@
+¿Cómo quieres atacar?:
+
+"1": Espadazo Desodorante (Quita 1 de vida al enemigo, 100% de probabilidades de acierto)
+"2": Tirachinas Laxante (Quita 2 de vida al enemigo, 75% de probabilidades de acierto)
+"3": Granada de Moscas (Quita 5 al enemigo y 2 a ti, 50% de probabilidades de acierto)
+"4": Bailas para seducir al enemigo (No tiene efecto ninguno).

@@ -1,0 +1,38 @@
+rem SEGUNDA INTERACCIÓN (continuación)
+
+:pausaMapa
+echo.
+echo Decides hacer una pausa y revisar detenidamente el mapa de Truñilandia. Mientras estudias el pergamino, escuchas un ruido sospechoso detrás de ti.
+
+¿Cómo reaccionas?
+1. Dar un rápido giro y atacar con la Espada Desodorante.
+2. Ignorar el ruido y seguir concentrado en el mapa.
+3. Gritar "¡¿Quién anda ahí?!" para intimidar al intruso.
+
+:ataqueEspada
+echo.
+echo Al girarte rápidamente, atacas con la Espada Desodorante, pero resulta ser Boñiguete, tu colega, que estaba siguiendo tus pasos.
+
+¿Cómo justificas tu reacción?
+1. Diciendo que pensaste que era un esbirro de Don Mojón.
+2. Culparte y ofrecerle una cerveza para compensar.
+3. Inventar una historia sobre una emboscada y cómo salvaste el día.
+
+:pensarEsbirro
+echo.
+echo "Pensé que eras un esbirro de Don Mojón", dices con una sonrisa nerviosa. Boñiguete se ríe y acepta la cerveza.
+
+¿Continúas la aventura juntos o prefieres ir solo?
+1. Continuar juntos.
+2. Ir solo, es una misión personal.
+3. Proponer un plan maestro para rescatar a la princesa.
+
+:continuarJuntos
+echo.
+echo Decides continuar la aventura junto a Boñiguete. Juntos se adentran en los pantanos de la Putrefacción, listos para enfrentar cualquier desafío que les depare Truñilandia.
+
+¡La compañía de Boñiguete puede ser útil en esta odisea!
+
+:siguienteInteraccion
+pause > nul
+goto :siguienteInteraccion
